@@ -1,4 +1,4 @@
-python
-Java
+Web Dev
+Rust
 SQL
 Game Dev
